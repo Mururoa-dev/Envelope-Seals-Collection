@@ -1,0 +1,36 @@
+modLoader="javafml"
+license="GPLv3"
+loaderVersion="[4,)"
+issueTrackerURL="https://github.com/Mururoa-dev/Envelope-Seals-Collection"
+displayURL="https://github.com/Mururoa-dev/Envelope-Seals-Collection"
+logoFile="icon.png"
+
+
+[[mods]]
+modId="seals_collection"
+version="0.0.1"
+displayName="Envelope Seals Collection"
+authors="Mururoa, mortuusars, ceit.wonders"
+description="A collection of seal symbols for the Envelope mod."
+
+[[dependencies.envelope]]
+modId="neoforge"
+required=true
+versionRange="[21,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.envelope]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21,1.21.2)"
+ordering = "NONE"
+side = "BOTH"
+
+
+[[dependencies.envelope]]
+modId="envelope"
+required=true
+versionRange="[0.7.5,)"
+ordering="NONE"
+side="BOTH"
