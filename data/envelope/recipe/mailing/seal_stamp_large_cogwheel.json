@@ -8,12 +8,12 @@
     },
     {
       "item":
-        "create:cogwheel"
+        "create:large_cogwheel"
     }
   ],
   "result": {
     "components": {
-      "envelope:seal_stamp_die": "envelope:cogwheels"
+      "envelope:seal_stamp_die": "envelope:large_cogwheel"
     },
     "count": 1,
     "id": "envelope:seal_stamp"
