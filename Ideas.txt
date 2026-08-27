@@ -1,0 +1,61 @@
+- locomotive
+- wrench create
+- cogwheels
+- large cogwheel
+- train tracks
+- airship
+- plane
+- light bulb
+- trophy
+- aperture
+- train station
+- whistle
+- tram / wagon
+- vault door
+- frogport
+- shield
+- ham
+- 42
+- potion 
+- alembic
+- fish
+- fishing rod
+- mace
+
+- eyes of end
+- dragon
+
+- music
+    - notes
+    - notes
+    - music key
+    - instruments
+
+- farmers delight knife
+- chef hat
+- scale (balance)
+- beer mug
+- bread
+- food
+    - chorus
+    - berries
+    - carrots
+    - wheat
+    - potato
+    - beetroot
+    - pumpkin
+    - cave carrot
+    - sugar cane
+    - tomato
+    - watermelon
+    - cocoa
+
+- firework (explosion)
+- firework (rocket)
+- wings
+    - pilot licence ?
+
+- gem (diamond shape)
+
+- musket
+- pistol
