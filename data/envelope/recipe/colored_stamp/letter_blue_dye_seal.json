@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_transmute",
+  "category": "misc",
+  "group": "seal_dye",
+  "input": "envelope:sealed_letter",
+  "material": "minecraft:blue_dye",
+  "result": {
+    "id": "envelope:sealed_letter",
+    "components":{
+        "envelope:seal": {
+            "material":"envelope:blue_wax",
+            "signature" : "This should not change",
+            "impression" : "envelope:large_cogwheel"
+        }
+    }
+  }
+}
